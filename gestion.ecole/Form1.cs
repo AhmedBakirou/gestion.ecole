@@ -35,7 +35,7 @@ namespace gestion.ecole
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            dataAdapter
+            Console.WriteLine("hello world");
         }
     }
 }
